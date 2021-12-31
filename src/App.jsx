@@ -10,7 +10,7 @@ function App()
     return(
     <div> 
         <Header></Header>
-        <Note></Note>
+        <Note title = "This is a title" content= "This is it's content"></Note>
         <Footer></Footer>
     </div>);    
 }
